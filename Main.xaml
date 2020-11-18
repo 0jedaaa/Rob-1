@@ -71,7 +71,7 @@
         <OutArgument x:TypeArguments="x:String">[strNome]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</InArgument>
+        <InArgument x:TypeArguments="x:String">Ola Mundo</InArgument>
       </Assign.Value>
     </Assign>
     <If Condition="[strNome.Length &gt;= 25]" sap:VirtualizedContainerService.HintSize="713,208" sap2010:WorkflowViewState.IdRef="If_1">
